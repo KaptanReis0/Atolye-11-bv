@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.exe
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam_asmaca_kaan_bilge_çıracı_ödev.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam_asmaca_kaan_bilge_çıracı_ödev.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.exe
+c:\users\administrator\documents\visual studio 2015\Projects\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.pdb
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.exe.config
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.exe
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.pdb
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.exe
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\bin\Debug\adam asmaca kaan bilge çıracı ödev.pdb
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.csprojResolveAssemblyReference.cache
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam_asmaca_kaan_bilge_çıracı_ödev.Form1.resources
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam_asmaca_kaan_bilge_çıracı_ödev.Properties.Resources.resources
+D:\Atölye 11\adam asmaca kaan bilge çıracı ödev\adam asmaca kaan bilge çıracı ödev\obj\Debug\adam asmaca kaan bilge çıracı ödev.csproj.GenerateResource.Cache
